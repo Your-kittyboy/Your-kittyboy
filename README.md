@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="right">✨ Creating bugs since 2023<br>📚 I'm currently learning Everything<br>🎯 Goals: ........<br>🎲 Fun fact: : I'm a good boy</h4>
+<h3 align="right">✨ Creating bugs since 2023<br>📚 I'm currently learning Everything<br>🎯 Goals: ........<br>🎲 Fun fact: : I'm a good boy</h3>
 
 ###
 
-<p align="left">I still learning about this :</p>
+<h4 align="left">I still learning about this :</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">And this is my Social Media :</p>
+<h4 align="left">And this is my Social Media :</h4>
 
 ###
 
