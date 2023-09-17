@@ -17,13 +17,13 @@
 
 ###
 
-<h3 align="left">🦾  About Me  :</h3>
+<h2 align="left">🦾  About Me  :</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm Ihsan from Indonesia<br><br>- 🔭 I’m working as Students<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I listen a music<br>- 👩‍💻 I am a good boy</p>
+<h4 align="right">- 📌 It's my first time to design my account<br>- 🔭 I’m working as Students<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I listen a music<br>- 👩‍💻 I am a good boy</h4>
 
 ###
 
